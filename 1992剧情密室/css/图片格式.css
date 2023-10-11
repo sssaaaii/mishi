@@ -1,0 +1,78 @@
+.zhuti1{
+	width: 800px;
+	margin: 50px auto;
+	border: solid 1px gray;
+    overflow: hidden;	
+}
+.picture1{
+	width: 300px;
+	float: left;
+}
+.picture1 img{
+	display: block;
+	width: 100%;
+}
+.word1{
+	float: right;
+	width: 450px;
+}
+
+/* 主题二 */
+.zhuti2{
+	width: 800px;
+	margin: 50px auto;
+	border: solid 1px gray;
+    overflow: hidden;	
+}
+.picture2{
+	width: 300px;
+	float: left;
+}
+.picture2 img{
+	display: block;
+	width: 100%;
+}
+.word2{
+	float: right;
+	width: 450px;	
+}	
+
+/* 主题三	 */
+.zhuti3{
+	width: 800px;
+	margin: 50px auto;
+	border: solid 1px gray;
+    overflow: hidden;	
+}
+.picture3{
+	width: 300px;
+	float: left;
+}
+.picture3 img{
+	display: block;
+	width: 100%;
+}
+.word3{
+	float: right;
+	width: 450px;
+}
+
+/* 主题四 */
+.zhuti4{
+	width: 800px;
+	margin: 50px auto;
+	border: solid 1px gray;
+    overflow: hidden;	
+}
+.picture4{
+	width: 300px;
+	float: left;
+}
+.picture4 img{
+	display: block;
+	width: 100%;
+}
+.word4{
+	float: right;
+	width: 450px;
+}
